@@ -1,0 +1,13 @@
+# one time each project to start git
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kausar-blog/Module_3_Learn_Github.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/kausar-blog/Module_3_Learn_Github.git
+git branch -M main
+git push -u origin main
